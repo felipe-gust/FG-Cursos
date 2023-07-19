@@ -1,6 +1,8 @@
+using CursosOnline.ContextoDeNotificacao;
+
 namespace CursosOnline.ContextoCompartilhado
 {
-    public abstract class Base
+    public abstract class Base : Notificavel
     {
         public Base()
         {
