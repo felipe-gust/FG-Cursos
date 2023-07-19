@@ -5,7 +5,7 @@
 
 <h1>Nota10 Cursos - Plataforma de cursos</h1> 
 
-Plataforma de cursos, utilizando a Programação Orientada a Objetos.
+Plataforma de cursos, foco na Programação Orientada a Objetos.
 
 <hr>
 
