@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+  
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <h1>Nota10 Cursos - Plataforma de cursos</h1> 
 
@@ -40,9 +42,9 @@ Plataforma de cursos, utilizando a Programação Orientada a Objetos.
 <h3>Editar ou Deletar funcionário</h3>
 
 ![View](https://github.com/felipe-gust/ASP.NET-MVC-CRUD/assets/50121496/e088a831-7580-4b16-a53d-187b98604235)
--->
 
 <hr>
+-->
 
 <h1>:computer: Tecnologias utilizadas</h1>
 
