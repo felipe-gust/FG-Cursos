@@ -15,9 +15,11 @@ Plataforma de cursos, utilizando a Programação Orientada a Objetos.
 - `Função 3 - Excluir`: Para exclusão, siga o mesmo passo da Função 2 e clique em 'Deletar'.
 -->
 
+<!-- 
 <hr>
 
 <h1>:page_facing_up: Site</h1>
+-->
 
 <!--
 <h3>Página inicial</h3>
