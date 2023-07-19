@@ -7,8 +7,9 @@ Plataforma de cursos, utilizando a Programação Orientada a Objetos.
 
 <hr>
 
-<h1>:hammer: Funcionalidades da aplicação</h1>
 <!--
+<h1>:hammer: Funcionalidades da aplicação</h1>
+
 - `Função 1 - Cadastrar funcionário`: Ao clicar em "Adicionar empregados" na página inicial, você será direcionado para a página onde preencherá os dados do empregado e ao clicar em 'Enviar' será adicionado o novo empregado;
 - `Função 2 - Atualizar dados`: Caso necessário atualizar algum dado do funcionário, na página dos "Empregados", na frente do funcionário que deseja atualizar clique em 'Editar', altere os dados e clique em 'Enviar';
 - `Função 3 - Excluir`: Para exclusão, siga o mesmo passo da Função 2 e clique em 'Deletar'.
