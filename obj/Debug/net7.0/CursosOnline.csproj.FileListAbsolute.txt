@@ -1,0 +1,15 @@
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\CursosOnline.csproj.AssemblyReference.cache
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\CursosOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\CursosOnline.AssemblyInfoInputs.cache
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\CursosOnline.AssemblyInfo.cs
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\CursosOnline.csproj.CoreCompileInputs.cache
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\bin\Debug\net7.0\CursosOnline.exe
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\bin\Debug\net7.0\CursosOnline.deps.json
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\bin\Debug\net7.0\CursosOnline.runtimeconfig.json
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\bin\Debug\net7.0\CursosOnline.dll
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\bin\Debug\net7.0\CursosOnline.pdb
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\CursosOnline.dll
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\refint\CursosOnline.dll
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\CursosOnline.pdb
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\CursosOnline.genruntimeconfig.cache
+C:\workspace-csharp\PooCsharp-profissional\PlataformaDeCurso\CursosOnline\obj\Debug\net7.0\ref\CursosOnline.dll
